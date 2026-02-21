@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✏️ AIR DRAWING SYSTEM
 
 Draw on a virtual canvas using just your **index finger** and a webcam — no mouse, no touch screen needed!
@@ -105,3 +106,6 @@ In `air_drawing.py`, you can tweak these constants at the top:
 **Hand not detected:** Improve lighting, keep your hand clearly in frame, and make sure your background isn't too cluttered.
 
 **Laggy performance:** Lower the camera resolution in `cap.set(...)` calls (e.g., 640×480).
+=======
+# air-drawing-system
+>>>>>>> 5689599c161fc454a402430d2b20b081c43fac99
